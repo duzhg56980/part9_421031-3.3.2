@@ -1,0 +1,6 @@
+import org.apache.hadoop.util.Progress;
+public class FunctionUse23206 {
+public void funcUse() {
+Progress progress = new Progress();
+}
+}

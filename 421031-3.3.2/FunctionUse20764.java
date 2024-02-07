@@ -1,0 +1,6 @@
+import org.apache.hadoop.security.token.delegation.web.DelegationTokenAuthenticator.DelegationTokenOperation;
+public class FunctionUse20764 {
+public void funcUse() {
+DelegationTokenOperation delegationtokenoperation = new DelegationTokenOperation();
+}
+}
